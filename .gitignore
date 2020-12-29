@@ -1,0 +1,10 @@
+**/node_modules
+*.zip
+src/package-lock.json
+**/dist
+yarn.lock
+**/package-lock.json
+
+# System Files
+.DS_Store
+Thumbs.db
